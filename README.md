@@ -2,7 +2,7 @@
 
 The embodiment of a containerized identity — a chatbot operator that runs your business and answers for everything it does. Receipts included. Built on Meta's Muse Spark.
 
-**Demo:** [www.3tched.com/demo](https://www.3tched.com/demo)
+**Demo video:** [Watch the 3tched-in-Schema demo](https://www.3tched.com/demo/)
 
 The video ends with "check it yourself." This repository is that check.
 
